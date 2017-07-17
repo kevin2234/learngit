@@ -1,2 +1,2 @@
 # learngit
-just test
+just test, hello
